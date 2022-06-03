@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/accordion//static/css/main.071378ba.chunk.css",
-    "main.js": "/accordion//static/js/main.608b28f2.chunk.js",
-    "main.js.map": "/accordion//static/js/main.608b28f2.chunk.js.map",
-    "runtime-main.js": "/accordion//static/js/runtime-main.7da872ab.js",
-    "runtime-main.js.map": "/accordion//static/js/runtime-main.7da872ab.js.map",
-    "static/js/2.40b1d22a.chunk.js": "/accordion//static/js/2.40b1d22a.chunk.js",
-    "static/js/2.40b1d22a.chunk.js.map": "/accordion//static/js/2.40b1d22a.chunk.js.map",
-    "index.html": "/accordion//index.html",
-    "precache-manifest.af9b3711cbea77b49734d0230f3476a4.js": "/accordion//precache-manifest.af9b3711cbea77b49734d0230f3476a4.js",
-    "service-worker.js": "/accordion//service-worker.js",
-    "static/css/main.071378ba.chunk.css.map": "/accordion//static/css/main.071378ba.chunk.css.map",
-    "static/js/2.40b1d22a.chunk.js.LICENSE.txt": "/accordion//static/js/2.40b1d22a.chunk.js.LICENSE.txt"
+    "main.css": "/Accordion-Project/static/css/main.071378ba.chunk.css",
+    "main.js": "/Accordion-Project/static/js/main.608b28f2.chunk.js",
+    "main.js.map": "/Accordion-Project/static/js/main.608b28f2.chunk.js.map",
+    "runtime-main.js": "/Accordion-Project/static/js/runtime-main.4c106527.js",
+    "runtime-main.js.map": "/Accordion-Project/static/js/runtime-main.4c106527.js.map",
+    "static/js/2.40b1d22a.chunk.js": "/Accordion-Project/static/js/2.40b1d22a.chunk.js",
+    "static/js/2.40b1d22a.chunk.js.map": "/Accordion-Project/static/js/2.40b1d22a.chunk.js.map",
+    "index.html": "/Accordion-Project/index.html",
+    "precache-manifest.74364822852bd0fdf2fb280417847833.js": "/Accordion-Project/precache-manifest.74364822852bd0fdf2fb280417847833.js",
+    "service-worker.js": "/Accordion-Project/service-worker.js",
+    "static/css/main.071378ba.chunk.css.map": "/Accordion-Project/static/css/main.071378ba.chunk.css.map",
+    "static/js/2.40b1d22a.chunk.js.LICENSE.txt": "/Accordion-Project/static/js/2.40b1d22a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.7da872ab.js",
+    "static/js/runtime-main.4c106527.js",
     "static/js/2.40b1d22a.chunk.js",
     "static/css/main.071378ba.chunk.css",
     "static/js/main.608b28f2.chunk.js"
